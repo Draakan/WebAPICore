@@ -1,0 +1,14 @@
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.2\WebApiUserRegistration.deps.json
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.2\WebApiUserRegistration.runtimeconfig.json
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.2\WebApiUserRegistration.runtimeconfig.dev.json
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.2\WebApiUserRegistration.dll
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.2\WebApiUserRegistration.pdb
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.RazorAssemblyInfo.cache
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.RazorAssemblyInfo.cs
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.AssemblyInfo.cs
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.dll
+D:\Visual Studio\Projects\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.2\WebApiUserRegistration.pdb
